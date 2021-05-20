@@ -49,6 +49,5 @@ public class Connection {
         synchronized (this) {
             connections--;
         }
-
     }
 }
